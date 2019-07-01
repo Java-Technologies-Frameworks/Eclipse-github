@@ -10,5 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("modified and 2nd commit test ");
+
+        System.out.println("modified by developer2 commit and push to master branc remote");
     }
 }
